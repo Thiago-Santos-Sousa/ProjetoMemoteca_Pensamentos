@@ -1,0 +1,67 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "We are the champions my friends!!!",
+      "autoria": "Queen",
+      "modelo": "modelo1",
+      "favorito": false
+    },
+    {
+      "id": 2,
+      "conteudo": "Na minha máquina funciona!",
+      "autoria": "Dev da madrugada",
+      "modelo": "modelo2",
+      "favorito": true
+    },
+    {
+      "conteudo": "dasdad",
+      "autoria": "sdasdasd",
+      "modelo": "modelo2",
+      "favorito": true,
+      "id": 5
+    },
+    {
+      "conteudo": "fsdfdsf",
+      "autoria": "sdfsdfsd",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 6
+    },
+    {
+      "conteudo": "ajsdjsadjsa",
+      "autoria": "asdsadsa",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 7
+    },
+    {
+      "conteudo": "asdad",
+      "autoria": "asdadsa",
+      "modelo": "modelo2",
+      "favorito": true,
+      "id": 8
+    },
+    {
+      "conteudo": "asdasd",
+      "autoria": "asdasdas",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 9
+    },
+    {
+      "conteudo": "adasda",
+      "autoria": "dsfdsfsd",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 10
+    },
+    {
+      "conteudo": "sdfdsfsdf",
+      "autoria": "sdfssdfds",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 11
+    }
+  ]
+}
